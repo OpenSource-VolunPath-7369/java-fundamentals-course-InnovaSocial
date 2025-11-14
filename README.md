@@ -32,15 +32,12 @@ El archivo **course-plan.md** contiene:
 **Equipo:** InnovaSocial  
 **Curso:** 1ASI0729 – Desarrollo de Aplicaciones Open Source  
 **Sección:** 7369  
-**Ciclo académico:** 202520  
-
+**Ciclo académico:** 2025-20  
+**Profesor:** Wilder Julio Espinoza Bravo
 **Integrantes:**
-- *(Nombre 1)*
-- *(Nombre 2)*
-- *(Nombre 3)*
-- *(Nombre 4)*
+- Jean Pool Huaman De La Cruz
 
-**Líder del equipo:** *(Nombre del líder)*
+**Líder del equipo:** *(Jean Pool)*
 
 ---
 
